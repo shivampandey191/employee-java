@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="ld_activityScreenTitles">
+
+        <item>Home</item>
+        <item>My Account</item>
+        <item>New Form</item>
+        <item>Log In</item>
+        <item>Application Forms</item>
+        <item>Log Out</item>
+    </string-array>
+
+    <array name="ld_activityScreenIcons">
+        <item>@drawable/ic_baseline_home_24</item>
+        <item>@drawable/ic_baseline_person_24</item>
+        <item>@drawable/ic_baseline_assignment_24</item>
+        <item>@drawable/ic_baseline_login_24</item>
+        <item>@drawable/ic_baseline_desktop_mac_24</item>
+        <item>@drawable/ic_baseline_login_24</item>
+    </array>
+
+</resources>

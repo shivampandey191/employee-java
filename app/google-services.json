@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "82883045720",
+    "project_id": "densenium-abcfd",
+    "storage_bucket": "densenium-abcfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82883045720:android:82929a70cae8b072465d2d",
+        "android_client_info": {
+          "package_name": "com.graphhene.densenium"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82883045720-kt14qtbu3vgg12l3agfh75vogmll4udk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaL-dJWFHXqGLDVq2KB3oWBC_orfcXdL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82883045720-kt14qtbu3vgg12l3agfh75vogmll4udk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

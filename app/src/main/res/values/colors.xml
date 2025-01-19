@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#358DE1</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#358DE1</color>
+    <color name="white">#fff</color>
+    <color name="paleBlack">#3E3E3E</color>
+    <color name="appTheme">#358DE1</color>
+    <color name="grey">#9F9F9F</color>
+    <color name="milk">#EDF8FF</color>
+    <color name="neomorph_highlight_color">#FFFFFF</color>
+
+    <color name="textColorPrimary">#212121</color>
+    <color name="textColorSecondary">#757575</color>
+
+    <color name="color1">#757575</color>
+    <color name="color2">#8CC6E4</color>
+    <color name="color3">#D3C064</color>
+    <color name="color4">#E18C8C</color>
+    <color name="color5">#78D17A</color>
+</resources>

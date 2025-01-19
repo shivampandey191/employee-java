@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">82883045720-kt14qtbu3vgg12l3agfh75vogmll4udk.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">82883045720</string>
+    <string name="google_api_key" translatable="false">AIzaSyAaL-dJWFHXqGLDVq2KB3oWBC_orfcXdL8</string>
+    <string name="google_app_id" translatable="false">1:82883045720:android:82929a70cae8b072465d2d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAaL-dJWFHXqGLDVq2KB3oWBC_orfcXdL8</string>
+    <string name="google_storage_bucket" translatable="false">densenium-abcfd.appspot.com</string>
+    <string name="project_id" translatable="false">densenium-abcfd</string>
+</resources>

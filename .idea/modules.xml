@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidStudioProjects.EmployeeDetails.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidStudioProjects.EmployeeDetails.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/EmployeeDetails.iml" filepath="$PROJECT_DIR$/.idea/EmployeeDetails.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/EmployeeDetails.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/EmployeeDetails.app.iml" />
+    </modules>
+  </component>
+</project>

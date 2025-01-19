@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Done"
+    android:background="@color/milk">
+
+    <com.chinodev.androidneomorphframelayout.NeomorphFrameLayout
+        android:id="@+id/circle"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.346"
+        app:neomorph_background_color="@color/appTheme"
+        app:neomorph_corner_radius="16dp"
+        app:neomorph_elevation="9dp"
+        android:transitionName="checkmark"
+        app:neomorph_highlight_color="@color/paleBlack"
+        app:neomorph_layer_type="software"
+        app:neomorph_shadow_color="@color/white"
+        app:neomorph_shadow_type="outer"
+        app:neomorph_view_type="circular">
+
+
+        <ImageView
+            android:id="@+id/checkMark"
+            android:layout_width="match_parent"
+            android:layout_margin="20dp"
+            android:layout_height="match_parent"
+            android:contentDescription="@string/checkmark"
+            app:srcCompat="@drawable/avd_done_2" />
+    </com.chinodev.androidneomorphframelayout.NeomorphFrameLayout>
+
+    <com.chinodev.androidneomorphframelayout.NeomorphFrameLayout
+        android:layout_width="247dp"
+        android:layout_height="129dp"
+        android:layout_marginTop="57dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/circle"
+        app:neomorph_background_color="@color/appTheme"
+        app:neomorph_corner_radius="16dp"
+        app:neomorph_elevation="9dp"
+        app:neomorph_highlight_color="@color/paleBlack"
+        app:neomorph_layer_type="software"
+        app:neomorph_shadow_color="@color/white"
+        app:neomorph_shadow_type="outer"
+        app:neomorph_view_type="rectangular">
+
+
+        <TextView
+            android:id="@+id/text_done"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textStyle="bold"
+            android:transitionName="done"
+            android:textColor="@color/white"
+            android:gravity="center"
+            android:textSize="40sp"
+            android:text="@string/done" />
+    </com.chinodev.androidneomorphframelayout.NeomorphFrameLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
